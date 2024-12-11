@@ -1,0 +1,5 @@
+[22-Nov-2024 17:25:44 UTC] Cron reschedule event error for hook: nfd_data_sync_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"minutely","args":[],"interval":60}
+[22-Nov-2024 17:29:45 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home3/ztymdvte/public_html/website_ff2f09ef/Products/wp-includes/class-wp-image-editor-imagick.php on line 457
+[22-Nov-2024 17:36:41 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home3/ztymdvte/public_html/website_ff2f09ef/Products/wp-includes/class-wp-image-editor-imagick.php on line 457
+[22-Nov-2024 17:37:47 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home3/ztymdvte/public_html/website_ff2f09ef/Products/wp-includes/class-wp-image-editor-imagick.php on line 470
+[22-Nov-2024 17:41:36 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home3/ztymdvte/public_html/website_ff2f09ef/Products/wp-includes/class-wp-image-editor-imagick.php on line 457

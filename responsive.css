@@ -1,0 +1,527 @@
+body .row {
+    margin-top: 0 !important;
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+}
+
+
+
+
+section#banner {
+    display: none;
+}
+
+
+
+@media (max-width: 1600px) {}
+@media (max-width: 1440px) {}
+@media (max-width: 1366px) {}
+@media (max-width: 1280px) {}
+
+
+
+@media (max-width: 1024px) {
+    header nav ul.menu li.close-btn {
+        display: flex !important;
+        position: absolute;
+        top: 3rem;
+    }
+    section.foundation img.logo-b {
+    height: auto;
+}
+
+.inner.a1 {
+    transform: unset !important;
+}
+header a.logo img {
+    width: 100px;
+}
+
+header nav ul.menu li:hover ul.sub-menu {
+    position: relative;
+    top: 0;
+}
+
+header nav ul.menu li {
+    margin: 2px 0px;
+}
+
+    header .col-md-9 .inner {
+        display: flex;
+        flex-direction: row-reverse;
+        width: fit-content;
+    }
+    section#banner {
+    display: block;
+}
+
+    header nav {
+        width: fit-content;
+    }
+
+    header .search {
+        width: fit-content;
+        margin-right: 10px;
+    }
+
+    header .row {
+        display: flex;
+        flex-wrap: nowrap;
+        flex-direction: row;
+    }
+
+    header .col-md-3 {
+        width: fit-content;
+    }
+
+    header {
+        width: 100vh;
+    }
+
+    header {
+        width: 100%;
+        max-width: 100% !important;
+    }
+
+    header nav ul.menu li.close-btn a {
+        font-size: 60px !important;
+        border-radius: 40px;
+        line-height: 0px;
+        width: fit-content;
+        z-index: 11111;
+    }
+
+    header .col-md-9 .inner nav button#menu-toggle {
+        background: #e46c21;
+        border: unset;
+        border-radius: 6px;
+        padding: 2.8px 10px;
+        font-size: 20px;
+        color: white !IMPORTANT;
+        display: block !important;
+    }
+
+    header nav ul.menu {
+        position: fixed !important;
+        top: 0;
+        width: 100%;
+        right: 0;
+        display: flex;
+        padding: 60px 10px 60px 30px;
+        height: 120vh;
+        flex-direction: column;
+        justify-content: center;
+        background: #e46c21;
+        transition: 0.5s;
+        transform-origin: right top;
+        border-radius: 500px;
+        transform: translate(11rem, -11rem) scale(0.2);
+        z-index: 11111111;
+    }
+
+    header nav ul.menu.active {
+        border-radius: 0;
+        transform: translate(0rem, 0rem) scale(1);
+        z-index: 99999999 !important;
+    }
+.wf_int-hero_section {
+    display: none;
+}
+    section#banner {
+        padding: 1rem 0rem 0rem;
+        text-align: center;
+        margin: 0;
+        margin-bottom: 0rem !important;
+    }
+#banner .tags a.tag:nth-child(n+8) {
+    display: none;
+}
+
+
+
+#banner:before {
+    top: 100%;
+    height: 340px;
+}
+
+section#foundation {
+    z-index: 1111;
+    padding-top: 4rem;
+}
+
+    #banner .tags {
+        display: block !important;
+    }
+
+    #banner .tags a.tag {
+        position: unset !IMPORTANT;
+        left: 0 !important;
+        top: 0 !important;
+        margin: 5px 5px;
+        display: inline-block;
+        transform: translate(0) !important;
+        width: 45%;
+        font-size: 11px;
+        padding: 13px 0px !important;
+    }
+
+    section.foundation .row {
+        padding: 0rem 1rem !important;
+    }
+
+    section.foundation .row .col-sm-12 {
+        flex-direction: column !important;
+        padding: 0px 20px !important;
+        top: 0 !important;
+        margin: 0px 0px !important;
+    }
+
+    section.foundation .col-sm-12.text-block {
+        margin-bottom: 3rem !important;
+    }
+
+    section.foundation .row .col-sm-4 {
+        margin-bottom: 2rem !important;
+    }
+
+    section.foundation .r1 .col-sm-4:last-child .inner-bg {
+        margin-bottom: 0;
+    }
+
+    section.foundation .r2 .col-sm-4 .inner-bg {
+        top: 0;
+        margin-top: 2rem;
+    }
+
+    section.foundation .row .col-sm-12.r2 .col-sm-8 .a3 {
+        margin: 0 11px !important;
+    }
+
+    section.who-are-we .inner.a1 {
+        position: unset;
+        width: 80%;
+        margin: 30px auto 0;
+    }
+
+    section#about .col-sm-12 {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    a#btn1 {
+        margin: 0 auto;
+    }
+
+    section.who-are-we:before {
+        width: 30rem;
+        height: 30rem;
+        bottom: -15rem !important;
+        left: 50%;
+        top: unset;
+        transform: translateX(-50%);
+    }
+
+    section#our-membership {
+        padding: 2rem 2rem 1rem;
+    }
+
+    section#our-membership .col-sm-12.r1 .inner {
+        display: flex;
+        flex-direction: column;
+    }
+
+    section#our-membership .col-sm-4:last-child .boxes .box,
+    section#our-membership .col-sm-4:first-child .boxes .box {
+        left: 0 !important;
+    }
+
+    section#our-membership .col-sm-12.r1 .inner .box {
+        display: flex;
+        flex-direction: row;
+        margin: 10px 0px;
+    }
+
+    section#our-membership .col-sm-12.r1 .inner .box .text-box {
+        text-align: left;
+        padding-left: 1rem !important;
+        margin: 0 !important;
+    }
+
+    section#our-membership .col-sm-12.r1 {
+        padding: 0 !important;
+    }
+
+    section#our-membership .col-sm-12.r1 .img-box {
+        padding: 0px 0px;
+        transform: scale(0.9);
+    }
+
+    section#blogs {
+        padding: 2rem 2rem 2rem !important;
+    }
+
+    section#about1 .main-inner {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    section#about1 .main-inner img.ab3 {
+        width: 80%;
+    }
+
+    #about1 .col-sm-6:last-child {
+        padding: 0px 2rem;
+        text-align: center;
+    }
+
+    section#about1 {
+        padding: 2rem 0 !important;
+    }
+
+    section#testimonials p.description {
+        margin: 20px 0px;
+    }
+
+    section#download-app .col-sm-12 .main-inner {
+        display: flex;
+        flex-direction: column;
+    }
+
+    section#faqs {
+        padding: 2rem 2rem !important;
+    }
+
+    #contact-sec .main-inner {
+        display: flex;
+        flex-direction: column-reverse;
+        padding: 10px 20px 0;
+    }
+
+    #contact-sec .main-inner img.cont-img {
+        width: 100%;
+        display: none;
+    }
+
+    #contact-sec .col-sm-6.c2 {
+        padding: 0px;
+    }
+
+    #contact-sec .main-inner form .col-sm-12 {
+        flex-direction: column;
+    }
+
+    #contact-sec .main-inner form .col-sm-12 .col-sm-6 {
+        width: 100%;
+    }
+
+    section#contact-sec {
+        margin-bottom: 0 !important;
+    }
+
+    section.foundation .row .col-sm-4,
+    section.foundation .row .col-sm-8 {
+        width: 100%;
+    }
+
+    section.foundation .row .r1,
+    section.foundation .row .r2 {
+        padding: 0rem 9rem !important;
+    }
+
+    section#download-app .col-sm-12 .col-sm-6 .text-block {
+        display: inline-block;
+        width: 100%;
+        padding-bottom: 2rem;
+    }
+
+    section#download-app .col-sm-12 .buttons {
+        flex-direction: column;
+    }
+
+    section.foundation .col-sm-12.text-block p {
+        width: 100%;
+    }
+
+    section.foundation .r1 .col-sm-4:first-child img.p1 {
+        margin-bottom: 0;
+    }
+
+    section#our-membership .col-sm-4:nth-child(2) {
+        padding-top: 2rem;
+        padding-bottom: 3rem;
+    }
+
+    section#our-membership .col-sm-4 {
+        margin: 0 auto;
+        padding: 0rem 10rem;
+        width: 100%;
+    }
+
+    .blog h4 {
+        font-size: 16px;
+        padding-bottom: 1rem !important;
+    }
+
+    section#blogs .content-box {
+        padding-right: 1rem !important;
+    }
+
+    section#contact-sec .col-sm-6.c2 {
+        width: 100%;
+    }
+
+    section#download-app .col-sm-12 .col-sm-6 {
+        width: 100%;
+    }
+
+    section#about1 .main-inner .col-sm-6 {
+        width: 100%;
+        padding: 0;
+    }
+
+    footer section#footer-content .col-sm-5,
+    footer section#footer-content .col-sm-3,
+    footer section#footer-content .col-sm-2 {
+        width: 50%;
+        padding-bottom: 0;
+    }
+    
+    section#about .container {
+    width: 100%;
+    }
+    
+    section#our-membership .img-box1 .img-box3 {
+    transform: translate(-50%, -50%) scale(0.9);
+}
+
+h2 {
+    font-size: 24px;
+}
+
+section#faqs .question {
+    font-size: 14px;
+    padding-right: 49px;
+    line-height: 19px;
+    padding-left: 0;
+}
+
+
+
+
+
+header .col-md-9,header .col-md-3,header {
+    width: fit-content !IMPORTANT;
+}
+
+header a#btn1 {
+    width: 90px;
+    font-size: 12px;
+}
+header {
+    z-index: 1111111111111111111;
+}
+.inner.inner-bg.a2 {
+    transform: translate(0,0) !IMPORTANT;
+}
+
+.tex-img.scale-image {
+    transform: scale(1) !IMPORTANT;
+}
+
+footer {
+    width: auto;
+}
+footer section#footer-content h4 {
+    padding: 0 0 3px;
+    margin: 40px 0 0;
+}
+footer section#footer-content {
+    padding: 3rem 2rem 1rem;
+}
+#res2 .container {
+    width: auto !important;
+}
+
+#res2 .owl-nav {
+    display: none !important;
+}
+
+.row.main-row {
+    overflow: hidden !important;
+}
+
+.row.main-row header {
+    overflow: visible;
+}
+
+.row.main-row header:before {content: '';width: 900%;height: 100%;position: absolute;top: 0;left: 0;background: #000000;z-index: 777777;}
+
+.row.main-row header .container {
+    z-index: 9999999999 !important;
+    position: relative;
+}
+
+header nav ul.menu li a {
+    font-size: 18px;
+}
+
+header nav ul.menu li span.ihs {
+    display: none !IMPORTANT;
+}
+section#inner-banner .container {
+    padding-bottom: 2rem !important;
+}
+
+section#res-m .col-sm-8 {
+    margin-bottom: 0rem !important;
+}
+
+.contentas {
+    padding-top: 0;
+}section#ban-2 .container {
+    padding-bottom: 2rem !important;
+}
+
+
+#res2 .owl-nav {
+    display: none !important;
+}
+section.who-are-we a#btn1 {
+    margin-bottom: 3rem !important;
+}
+
+section#about1 .main-inner img.ab3 {
+    margin-top: 3rem;
+}
+}
+
+
+
+@media (max-width: 768px) {}
+
+
+
+@media (max-width: 500px) {
+    section.foundation .row .r1, 
+    section.foundation .row .r2 {
+        padding: 0rem 0rem !important;
+    }
+
+    section#our-membership .col-sm-4 {
+        padding: 0rem 0rem;
+    }
+
+    footer section#footer-content .col-sm-5,
+    footer section#footer-content .col-sm-3,
+    footer section#footer-content .col-sm-2 {
+        width: 100%;
+    }
+}
+
+
+
+@media (max-width: 428px) {}
+@media (max-width: 414px) {}
+@media (max-width: 390px) {}
+@media (max-width: 375px) {}
+@media (max-width: 360px) {}

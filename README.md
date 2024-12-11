@@ -1,2 +1,0 @@
-# blacnetwork
-blacnetwork currency website

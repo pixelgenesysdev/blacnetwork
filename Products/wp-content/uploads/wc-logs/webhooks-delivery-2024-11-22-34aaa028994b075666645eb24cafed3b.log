@@ -1,0 +1,784 @@
+2024-11-22T17:29:46+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => fa7a5be0ad25b2c2399650e5cd395121
+            [Date] => Nov 22, 2024 @ 17:29
+            [URL] => https://api.printful.com/hook/woocommerce?store=14892694
+            [Duration] => 0.17829
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.4.2 Hookshot (WordPress/6.7.1)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://blacnetwork.com/Products/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => e5C2Q/AAVnk1xxqIwrAMrtFUcr+wsJr9Vg2kdOWq5f0=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => fa7a5be0ad25b2c2399650e5cd395121
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Fri, 22 Nov 2024 17:29:46 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [cf-cache-status] => DYNAMIC
+                                    [set-cookie] => __cf_bm=MHs8RWXnPpfed4uUEIZUAdSJDA.Sbr0fbYWurWHgCUg-1732296586-1.0.1.1-mCqb3vSiLGQ624by830okaKwrdYIhjan2A_dc492Mm722ylxSGM2pwumTXCVJeXKTfCeoiYDB1UdfGNKtLyqgQ; path=/; expires=Fri, 22-Nov-24 17:59:46 GMT; domain=.printful.com; HttpOnly; Secure; SameSite=None
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 8e6aa4c05a4c5308-SLC
+                                    [content-encoding] => br
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2024-11-22T17:34:14+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 3ba021852fd9c4e4c0e446f9c602f7d0
+            [Date] => Nov 22, 2024 @ 17:34
+            [URL] => https://api.printful.com/hook/woocommerce?store=14892694
+            [Duration] => 0.20018
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.4.2 Hookshot (WordPress/6.7.1)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://blacnetwork.com/Products/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => eNCiaIudGitKvhjwxHY/yqMcnHrhf26OCkAv/m/SakQ=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 3ba021852fd9c4e4c0e446f9c602f7d0
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Fri, 22 Nov 2024 17:34:14 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [cf-cache-status] => DYNAMIC
+                                    [set-cookie] => __cf_bm=cSvpVRs306Udt3.knFaM9xCMLiAB4FaOt9JVUN0o884-1732296854-1.0.1.1-51Kee1824ylHDgUbHaAToceporeDYVeKc9JM99YFa1qOX4m4uF6c_bTsD3YDpPfVOQnYRJiM_bbmrbu9OrFlSA; path=/; expires=Fri, 22-Nov-24 18:04:14 GMT; domain=.printful.com; HttpOnly; Secure; SameSite=None
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 8e6aab4abf4c2b04-SLC
+                                    [content-encoding] => br
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2024-11-22T17:37:48+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 9aa8b46b9914200f365a9d0accf1ce7e
+            [Date] => Nov 22, 2024 @ 17:37
+            [URL] => https://api.printful.com/hook/woocommerce?store=14892694
+            [Duration] => 0.22626
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.4.2 Hookshot (WordPress/6.7.1)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://blacnetwork.com/Products/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => 8amx9C4/RcNy5PVcIMDuPRyQ0788C7GT9AJj4LkiNbU=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 9aa8b46b9914200f365a9d0accf1ce7e
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Fri, 22 Nov 2024 17:37:48 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [cf-cache-status] => DYNAMIC
+                                    [set-cookie] => __cf_bm=cBzBk.CcVEJrPiNclidDijfiWCrYHcFDevuYCOT2_ec-1732297068-1.0.1.1-PZxXTr41vfbNmEilRGD8tuB6xyPkI5azJZRQUPoVne7GlUp1FiRbIj9cHOGhIltUzw7pT04pBWxofOs7xBUVZQ; path=/; expires=Fri, 22-Nov-24 18:07:48 GMT; domain=.printful.com; HttpOnly; Secure; SameSite=None
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 8e6ab0852b0a5309-SLC
+                                    [content-encoding] => br
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2024-11-22T17:37:48+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 9aa8b46b9914200f365a9d0accf1ce7e
+            [Date] => Nov 22, 2024 @ 17:37
+            [URL] => https://api.printful.com/hook/woocommerce?store=14892694
+            [Duration] => 0.15888
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.4.2 Hookshot (WordPress/6.7.1)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://blacnetwork.com/Products/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => JFkOYDPQaEOSYyUIl2mBgpwjsy4jV3t4ZLWZmBn6B4Q=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 9aa8b46b9914200f365a9d0accf1ce7e
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Fri, 22 Nov 2024 17:37:48 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [cf-cache-status] => DYNAMIC
+                                    [set-cookie] => __cf_bm=jJVn44WF4OczNJm2eT6pVsfTUoeYNzYN7tiM_eTKn7A-1732297068-1.0.1.1-LQ7zvXnCFeP6unhYGarFcrmIYH.HL8JIhx3dUrwCxgzz2tpsxxaMzu2PPM2pZeJNQ5qMOL1n9_BDpygXOdP4.g; path=/; expires=Fri, 22-Nov-24 18:07:48 GMT; domain=.printful.com; HttpOnly; Secure; SameSite=None
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 8e6ab0862a0a2c69-SLC
+                                    [content-encoding] => br
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2024-11-22T17:37:48+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 9aa8b46b9914200f365a9d0accf1ce7e
+            [Date] => Nov 22, 2024 @ 17:37
+            [URL] => https://api.printful.com/hook/woocommerce?store=14892694
+            [Duration] => 0.23775
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.4.2 Hookshot (WordPress/6.7.1)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://blacnetwork.com/Products/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => Ko5kPQGAkSHZmzQSUsCkdrV9YpF8CuL8BHJI0iMY4so=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 9aa8b46b9914200f365a9d0accf1ce7e
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Fri, 22 Nov 2024 17:37:48 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [cf-cache-status] => DYNAMIC
+                                    [set-cookie] => __cf_bm=2pxTD5G5LlNUYMeNKFtvMkWTAZWg5E_ocFHTBhKCS9g-1732297068-1.0.1.1-.hKwK4gBEljjNdw3xKmZa4HXKP3tV8lUV3JLIZ8CEtFJuiT_z_xyn2fRwnLUMILijkqeq.jmQy7IvRhsrLzg2g; path=/; expires=Fri, 22-Nov-24 18:07:48 GMT; domain=.printful.com; HttpOnly; Secure; SameSite=None
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 8e6ab08768682b2a-SLC
+                                    [content-encoding] => br
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2024-11-22T17:37:49+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 9aa8b46b9914200f365a9d0accf1ce7e
+            [Date] => Nov 22, 2024 @ 17:37
+            [URL] => https://api.printful.com/hook/woocommerce?store=14892694
+            [Duration] => 0.1463
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.4.2 Hookshot (WordPress/6.7.1)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://blacnetwork.com/Products/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => 9koTBx9idQzMOaoAOGm+oPe6XXn5VYw3aeJRJhny3Z0=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 9aa8b46b9914200f365a9d0accf1ce7e
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Fri, 22 Nov 2024 17:37:49 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [cf-cache-status] => DYNAMIC
+                                    [set-cookie] => __cf_bm=7xklhVOWCD1bBLfFV05wL37QFS8Pvsu0c1tijXmmgiQ-1732297069-1.0.1.1-VWXfvX8aFTqTupziqdhZJFDzihRdlsHqI_f0urEjgLlFmLDv9QqzKw2GsS8FbZb0n.HOYZvmGnwVE1Q9erCWdg; path=/; expires=Fri, 22-Nov-24 18:07:49 GMT; domain=.printful.com; HttpOnly; Secure; SameSite=None
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 8e6ab088a9d92b2a-SLC
+                                    [content-encoding] => br
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2024-11-22T17:37:49+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => c8615274857eb26c73a0f08447eef9a0
+            [Date] => Nov 22, 2024 @ 17:37
+            [URL] => https://api.printful.com/hook/woocommerce?store=14892694
+            [Duration] => 0.1821
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.4.2 Hookshot (WordPress/6.7.1)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://blacnetwork.com/Products/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => sXkEMPlUQtzQZwkzeS9wfv4qhVIIgctCDQXz3FtZWj8=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => c8615274857eb26c73a0f08447eef9a0
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Fri, 22 Nov 2024 17:37:49 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [cf-cache-status] => DYNAMIC
+                                    [set-cookie] => __cf_bm=pPgmH9sJAk2SthRd3AvCidpkL7LvF3psVD7aWLQy.AM-1732297069-1.0.1.1-0cs.NnKmQHMo.85WxS.CfNj3z30Fuqpnb3MIdAibYuPnpJ6fSTOlYUpHCX9dpWQ5BWuoO1un63tuBZ_Nan.SLw; path=/; expires=Fri, 22-Nov-24 18:07:49 GMT; domain=.printful.com; HttpOnly; Secure; SameSite=None
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 8e6ab089dc705306-SLC
+                                    [content-encoding] => br
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2024-11-22T17:37:49+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => c8615274857eb26c73a0f08447eef9a0
+            [Date] => Nov 22, 2024 @ 17:37
+            [URL] => https://api.printful.com/hook/woocommerce?store=14892694
+            [Duration] => 0.16734
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.4.2 Hookshot (WordPress/6.7.1)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://blacnetwork.com/Products/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => oQ4tiDGK1UFep1PYqUSpINf4W00UiZjz4AVZmVYwokM=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => c8615274857eb26c73a0f08447eef9a0
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Fri, 22 Nov 2024 17:37:49 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [cf-cache-status] => DYNAMIC
+                                    [set-cookie] => __cf_bm=9YgiRYAF8ACITaYahFd9nmKgeo7B6L75P1lozIb1VfQ-1732297069-1.0.1.1-ZVycAIuSXoHJM.wyjk7H9vDzTcACx4Qtj1WA6m8vhQdyKYFmorbGBtavpksRmQvfyL7A3I9lISUkASJgGRHSPA; path=/; expires=Fri, 22-Nov-24 18:07:49 GMT; domain=.printful.com; HttpOnly; Secure; SameSite=None
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 8e6ab08acf9d5303-SLC
+                                    [content-encoding] => br
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2024-11-22T17:37:49+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => c8615274857eb26c73a0f08447eef9a0
+            [Date] => Nov 22, 2024 @ 17:37
+            [URL] => https://api.printful.com/hook/woocommerce?store=14892694
+            [Duration] => 0.14712
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.4.2 Hookshot (WordPress/6.7.1)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://blacnetwork.com/Products/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => fTGkys0Zd8C0Doa2JOrspE6613f3qHaoOTnkoOqDL/U=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => c8615274857eb26c73a0f08447eef9a0
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Fri, 22 Nov 2024 17:37:49 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [cf-cache-status] => DYNAMIC
+                                    [set-cookie] => __cf_bm=SiCFNP0WF9VzVXZx3Pm1qCplosySC_Qinq8g2O1bR4Q-1732297069-1.0.1.1-BCs6ELrFIwC3jhb3.XMDj5jMHCQtw6kGqcOT47FPZPgspdnIty9zDd.galrPqYp7Qfu6GItsbHrzEDVf3WmLjg; path=/; expires=Fri, 22-Nov-24 18:07:49 GMT; domain=.printful.com; HttpOnly; Secure; SameSite=None
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 8e6ab08c0b945308-SLC
+                                    [content-encoding] => br
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2024-11-22T17:37:49+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => c8615274857eb26c73a0f08447eef9a0
+            [Date] => Nov 22, 2024 @ 17:37
+            [URL] => https://api.printful.com/hook/woocommerce?store=14892694
+            [Duration] => 0.24151
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.4.2 Hookshot (WordPress/6.7.1)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://blacnetwork.com/Products/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => qf7cimh77O94ynziB347WwYGESM4l1DCUbspSFDkJCI=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => c8615274857eb26c73a0f08447eef9a0
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Fri, 22 Nov 2024 17:37:49 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [cf-cache-status] => DYNAMIC
+                                    [set-cookie] => __cf_bm=ULOwPSqr8_O_pA8sQYRtJ1RrGDk4aYjW7GGKej4z2oY-1732297069-1.0.1.1-cRdkfJ9i3IWX0L0z1EqNzp6CkGz8y2W1hxjBm36vC5SOKGFHDUyk_ZQ85T97P_VJmVi68A0HPoCyYIOKFRfEFw; path=/; expires=Fri, 22-Nov-24 18:07:49 GMT; domain=.printful.com; HttpOnly; Secure; SameSite=None
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 8e6ab08d2a845186-DEN
+                                    [content-encoding] => br
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2024-11-22T17:37:49+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => c8615274857eb26c73a0f08447eef9a0
+            [Date] => Nov 22, 2024 @ 17:37
+            [URL] => https://api.printful.com/hook/woocommerce?store=14892694
+            [Duration] => 0.18018
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.4.2 Hookshot (WordPress/6.7.1)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://blacnetwork.com/Products/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => scMPdKAChlugRWe5xKOwWkd5u8/+PBtRjQCBBjr9X9A=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => c8615274857eb26c73a0f08447eef9a0
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Fri, 22 Nov 2024 17:37:49 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [cf-cache-status] => DYNAMIC
+                                    [set-cookie] => __cf_bm=G233Wk3FOqxKPAAmN1SQ6xDw4fPeUjuB8Qgj2GQaWmg-1732297069-1.0.1.1-eTc6.2_z7aXi_38uYL74xqKpPsOtum1OzDIX973WV118tmUVa3HvAQQPzea7QZD8izSqh150TpCd83p6M7XEBQ; path=/; expires=Fri, 22-Nov-24 18:07:49 GMT; domain=.printful.com; HttpOnly; Secure; SameSite=None
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 8e6ab08e7e0a2b06-SLC
+                                    [content-encoding] => br
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2024-11-22T17:37:50+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => c8615274857eb26c73a0f08447eef9a0
+            [Date] => Nov 22, 2024 @ 17:37
+            [URL] => https://api.printful.com/hook/woocommerce?store=14892694
+            [Duration] => 0.23774
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.4.2 Hookshot (WordPress/6.7.1)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://blacnetwork.com/Products/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => 1VsA5eXe4SpRqDTJVKBdJaaHyIAI3VsF19m5OV2QqQE=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => c8615274857eb26c73a0f08447eef9a0
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Fri, 22 Nov 2024 17:37:50 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [cf-cache-status] => DYNAMIC
+                                    [set-cookie] => __cf_bm=60L7K6DcJ0F6xxEypKRau5_GDv.LDXZYHVO0EQKSQlM-1732297070-1.0.1.1-moIKa4OHtG80PlU4g6QxM4GzA7cQ8WbuXqSdRRG.gF_YAhuoZQjR962Vo2E1Yi8erqJ4RBWt1mklxrIGSBPUbA; path=/; expires=Fri, 22-Nov-24 18:07:50 GMT; domain=.printful.com; HttpOnly; Secure; SameSite=None
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 8e6ab08f9f7227d8-SLC
+                                    [content-encoding] => br
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2024-11-22T17:37:50+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 15edc2084fb96b68c990be39e65e0304
+            [Date] => Nov 22, 2024 @ 17:37
+            [URL] => https://api.printful.com/hook/woocommerce?store=14892694
+            [Duration] => 0.20145
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.4.2 Hookshot (WordPress/6.7.1)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://blacnetwork.com/Products/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => B44DCf84S714QA3jsGgYW6Eysiphc6yc/NaaHFW7Zd4=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 15edc2084fb96b68c990be39e65e0304
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Fri, 22 Nov 2024 17:37:50 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [cf-cache-status] => DYNAMIC
+                                    [set-cookie] => __cf_bm=TSaMqaoWoQk.KtQdHQd9t9esaMKrbSJza1egHpiU44I-1732297070-1.0.1.1-AACiLTZk.E1.k33Io_5ZU_tHgByiIZ0gu28XGuBOhEx7staGisqO4wzrZKMtX8kdm1.RJp6BGWT3FxOmaFXthQ; path=/; expires=Fri, 22-Nov-24 18:07:50 GMT; domain=.printful.com; HttpOnly; Secure; SameSite=None
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 8e6ab091da8c2ce2-SLC
+                                    [content-encoding] => br
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2024-11-22T17:41:37+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 76c3e83dd2d47e70292fea5718fdf272
+            [Date] => Nov 22, 2024 @ 17:41
+            [URL] => https://api.printful.com/hook/woocommerce?store=14892694
+            [Duration] => 0.1513
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.4.2 Hookshot (WordPress/6.7.1)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://blacnetwork.com/Products/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => 7NUYar4lCmuZWoVZpVB3GpDnKEWkNFK9sExWK1zp65M=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 76c3e83dd2d47e70292fea5718fdf272
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Fri, 22 Nov 2024 17:41:37 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [cf-cache-status] => DYNAMIC
+                                    [set-cookie] => __cf_bm=0gdzoWm0UN07yHjz.OKTcBIq0Palr.bYhNLd11sarwo-1732297297-1.0.1.1-oLc.2IXExePxfgyF8jLNSfn59adlUMxNaEOp8rdkcJi7gMZBcz_D0ZRRaKUY2B0eNjSilAKDLye9pdPcIQMnRA; path=/; expires=Fri, 22-Nov-24 18:11:37 GMT; domain=.printful.com; HttpOnly; Secure; SameSite=None
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 8e6ab61b1e4f6a09-SLC
+                                    [content-encoding] => br
+                                    [alt-svc] => h3=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
